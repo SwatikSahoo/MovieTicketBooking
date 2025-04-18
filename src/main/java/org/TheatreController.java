@@ -32,7 +32,6 @@ public class TheatreController {
                 theatVsShow.put(the, givenMovieShow);
             }
         }
-
         return theatVsShow;
     }
 }
